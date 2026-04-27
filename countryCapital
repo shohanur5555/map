@@ -1,0 +1,9 @@
+void main() {
+  Map<String, String> countryCapital = {
+    'Bangladesh': 'Dhaka',
+    'India': 'New Delhi',
+    'USA': 'Washington, D.C.'
+  };
+
+  print(countryCapital['Bangladesh']); // Dhaka
+}
