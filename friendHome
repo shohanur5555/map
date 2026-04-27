@@ -1,0 +1,10 @@
+void main() {
+  Map<String, String> friendHome = {
+    'Shohan': 'Rangpur',
+    'Arman': 'Khulna',
+    'Shimul': 'Jamalpur',
+  };
+  
+  print(friendHome['Shohan']);
+  
+}
