@@ -1,0 +1,9 @@
+void main(){
+  
+  var person = {
+    'name':'Shohanur Rahman',
+    'age': 21,
+    'city':'Dhanmondi'
+  };
+  print(person['city']);
+}
